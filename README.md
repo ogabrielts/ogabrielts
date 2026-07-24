@@ -1,7 +1,5 @@
 ## Hi, I'm Gabriel! 👋
 
-⚡Go developer focused on systems, concurrency, and networking.
+⚡I'm a Go developer passionate about systems, concurrency, and networking. Always digging deeper to understand how things work under the hood.
 
-Building learning-driven projects to understand how things work under the hood.
-
-🎮 Exploring [game development](https://ogabrielts.itch.io/) in my spare time.
+🎮 In my spare time, you'll find me exploring the world of [game development](https://ogabrielts.itch.io/).
